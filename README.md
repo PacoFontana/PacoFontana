@@ -1,7 +1,7 @@
 ### 🧑🏻‍💻 Paco Fontana
 #### 📍 Bahia Blanca, Buenos Aires. Argentina
 #### 📚 Tec. Programacion - Universidad Nacional del Sur
-   ![GitHub Org's stars](https://img.shields.io/github/stars/PacoFontana?style=social)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)]
    
 ### 📑 Conocimientos Basicos en
 
