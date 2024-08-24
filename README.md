@@ -41,9 +41,8 @@ Welcome to my GitHub profile! I'm a junior developer always on the lookout for n
 
 ## 🌐 Social Media
 <p align="left">
-  <a href="https://linkedin.com/in/tu_linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://twitter.com/tu_twitter" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="mailto:tu_correo@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://linkedin.com/in/paco-fontana" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:fontanafernandezpaco@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
 <!-- Profile View Counter -->
